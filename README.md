@@ -1,0 +1,1 @@
+# Net6Api-minimal
