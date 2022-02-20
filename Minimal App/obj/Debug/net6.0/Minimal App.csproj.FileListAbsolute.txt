@@ -1,0 +1,21 @@
+/home/ash/RiderProjects/test/Minimal App/Minimal App/bin/Debug/net6.0/appsettings.Development.json
+/home/ash/RiderProjects/test/Minimal App/Minimal App/bin/Debug/net6.0/appsettings.json
+/home/ash/RiderProjects/test/Minimal App/Minimal App/bin/Debug/net6.0/Minimal App
+/home/ash/RiderProjects/test/Minimal App/Minimal App/bin/Debug/net6.0/Minimal App.deps.json
+/home/ash/RiderProjects/test/Minimal App/Minimal App/bin/Debug/net6.0/Minimal App.runtimeconfig.json
+/home/ash/RiderProjects/test/Minimal App/Minimal App/bin/Debug/net6.0/Minimal App.dll
+/home/ash/RiderProjects/test/Minimal App/Minimal App/bin/Debug/net6.0/ref/Minimal App.dll
+/home/ash/RiderProjects/test/Minimal App/Minimal App/bin/Debug/net6.0/Minimal App.pdb
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/Minimal App.csproj.AssemblyReference.cache
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/Minimal App.GeneratedMSBuildEditorConfig.editorconfig
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/Minimal App.AssemblyInfoInputs.cache
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/Minimal App.AssemblyInfo.cs
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/Minimal App.csproj.CoreCompileInputs.cache
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/Minimal App.MvcApplicationPartsAssemblyInfo.cache
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/staticwebassets.build.json
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/staticwebassets.development.json
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/scopedcss/bundle/Minimal App.styles.css
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/Minimal App.dll
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/ref/Minimal App.dll
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/Minimal App.pdb
+/home/ash/RiderProjects/test/Minimal App/Minimal App/obj/Debug/net6.0/Minimal App.genruntimeconfig.cache
